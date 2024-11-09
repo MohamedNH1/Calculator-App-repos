@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="NameText">Welcome </string>
+    <string name="E">Name</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="_Equal">=</string>
+    <string name="_PLus">+</string>
+    <string name="_Minus">-</string>
+    <string name="_Multiply">×</string>
+    <string name="Clear1">C</string>
+    <string name="_Divide">÷</string>
+    <string name="_Decimal">.</string>
+    <string name="Negate">+/-</string>
+    <string name="delete_last_character">Delete last character</string>
+    <string name="delete">⌫</string>
+</resources>
